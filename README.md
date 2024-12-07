@@ -11,7 +11,7 @@ Vanilla Compatibility
 and more!
 
 Directions:
-Extract all files into CastleMinerZ game folder and hit replace files, after that run the Config.exe file and then run CastleMinerZ.exe
+Hit code and download as zip the extract all files into CastleMinerZ game folder and hit replace files, after that run the Config.exe file and then run CastleMinerZ.exe and your all set!
 
 When joining a session, a message will be sent to the host describing the mod. 
 If the host wishes, they can type the command "/allowcheats (yourname)" to allow the use of your menu. This does not work in Endurance.
